@@ -1,7 +1,7 @@
 # [rag-tax-deductions] — Test-Driven RAG for Australian Individual Tax Deductions
 
 ## Group ID
-Team RAG
+Project RAG
 
 ## Team Members
 | Student ID | Full Name | Role |
