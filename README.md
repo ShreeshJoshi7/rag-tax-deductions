@@ -6,11 +6,11 @@ Team RAG
 ## Team Members
 | Student ID | Full Name | Role |
 |---|---|---|
-| s4206111 | Shreesh Anil Joshi | RAG Pipeline — retrieval, embeddings, generation, vector DB integration |
-| s4149947 | Athith M S | Evaluation Framework — designing test question sets, measuring faithfulness, effectiveness, and unanswered-question rate |
-| s4164152 | Sahana Shetty | Data Engineering — sourcing, cleaning, and chunking ATO documents into the knowledge base |
-| s4234052 | Brunda Shankar | Frontend & Demo — building the Streamlit interface and user-facing app |
-| s4159521 | Vaishnavi Sreenath | Project Coordination & Reporting — Trello board management, milestone reports, and documentation |
+| s4206111 | Shreesh Anil Joshi | RAG Pipeline, retrieval, embeddings, generation, vector DB integration |
+| s4149947 | Athith M S | Evaluation Framework, builds the actual evaluation scripts (NDCG, faithfulness, unanswered-rate), hands-on with eval.py style code, not just designing test questions on paper |
+| s4164152 | Sahana Shetty | Data Engineering, sourcing, cleaning, and chunking ATO documents into the knowledge base |
+| s4234052 | Brunda Shankar | Frontend & Demo, builds and codes the Streamlit app, wires it to the RAG pipeline's output |
+| s4159521 | Vaishnavi Sreenath | Integration & DevOps, owns the GitHub repo structure, CI/testing setup, merges branches, and also builds the automated report/metrics dashboard (e.g., a script that pulls eval results into a chart or summary) — plus coordination as a secondary responsibility, not the headline |
 
 ## Project Aim
 A Retrieval-Augmented Generation assistant that helps Australian individual
