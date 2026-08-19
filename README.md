@@ -39,4 +39,4 @@ applying it to the Australian tax deductions domain.
 ```
 
 ## Status
-In progress — Milestone 1 (Walert reproduction + tax domain adaptation)
+Successfully reproduced the Walert RAG pipeline (encoding, indexing, BM25 and dense/FAISS retrieval, and NDCG-based evaluation) using their original FAQ dataset. Results confirm RAG-based retrieval (BM25: NDCG@5 = 0.329; Dense/FAISS: NDCG@1 = 0.250) substantially outperforms Walert's original intent-based system (NDCG@5 = 0.039), validating RAG as the stronger approach before adapting the pipeline to the ATO tax deductions domain.
