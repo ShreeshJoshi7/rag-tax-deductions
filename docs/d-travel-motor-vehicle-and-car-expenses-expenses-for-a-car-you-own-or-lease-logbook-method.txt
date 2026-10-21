@@ -1,0 +1,147 @@
+Logbook method
+How to calculate a deduction for car expenses using the logbook method and the records you need to keep.
+Last updated
+12 June 2026
+Print or Download
+How it works
+The logbook method allows you to claim the work-related portion of your actual car expenses.
+Expenses you can claim include running costs such as fuel, electricity, servicing, registration, insurance and the decline in value, as long as you use the car in the course of
+earning your assessable employment income
+.
+To calculate your deduction using the logbook method, you need to:
+keep a logbook
+that shows your work-related trips for a continuous period of at least 12 weeks and your odometer records
+keep receipts or other records of your car expenses
+use your logbook to
+calculate the deductible portion of your car expenses
+.
+Keeping a logbook
+Your logbook must:
+cover at least 12 continuous weeks and be broadly representative of your travel
+include the reason and purpose, as well as the destination of every work-related journey, the odometer reading at the start and end of each journey, and the total kilometres travelled on the journey
+include odometer readings for the start and end of the logbook period and the total kilometres travelled during that period.
+Each journey in your logbook must be made at the end of the journey or as soon as possible afterwards.
+Your logbook is valid for 5 years. However, if your circumstances change (for example, if you change jobs or move to a new house), and the logbook is no longer representative of your work-related use, you will need to complete a new 12 week logbook.
+In each of the 4 years following the first year, you need to keep:
+odometer readings for the start and end of the full period you owned the car during the income year
+your work-related kilometres and use percentage for the income year based on the logbook.
+If you are using the logbook method for 2 or more cars, keep a logbook for each car and make sure they cover the same period.
+You can keep an electronic logbook using the
+myDeductions
+tool in the ATO app, or keep a paper logbook.
+You must retain your logbook and odometer records for 5 years after the end of the latest income year that you rely on them to support your claim.
+If you don't have a valid logbook, you can't use the logbook method to claim car expenses. You may be able to use the
+cents per kilometre method
+instead.
+Keeping records of car expenses
+In addition to keeping a valid logbook, you must keep the following records:
+receipts for your fuel and oil expenses, or a record of your reasonable estimate of these expenses based on the odometer readings for the start and end of the period you owned the car, the fuel consumption for your car and the average price of fuel during the income year
+receipts for other expenses for your car – for example, registration, insurance, lease payments, services, tyres, repairs, electricity expenses and interest charges
+a record of the purchase price of the car and how you work out your claim for the
+decline in value of your car,
+including the effective life and method you use.
+Electric cars – records of electricity expenses
+If your car is electric, instead of keeping receipts for fuel and oil, you must keep:
+receipts for electricity from commercial charging stations
+evidence that shows you incur electricity costs to charge your car at home, such as an electricity bill and how you calculated the direct cost of charging your car.
+Hybrid cars – records of fuel and electricity expenses
+If your car is a hybrid, you must keep all the following:
+receipts for your fuel and oil
+receipts for commercial charging stations
+evidence that shows you incur electricity costs to charge your car at home, such as an electricity bill and how you calculated the direct cost of charging your car.
+Calculating your deduction
+To calculate your deduction using the logbook method, follow these steps:
+Step 1
+– Work out the total number of kilometres you travelled during the logbook period.
+Step 2
+– Work out the number of kilometres you travelled for allowable work-related trips during the logbook period.
+Step 3
+– Divide the work-related kilometres (step 2) by the total kilometres (step 1), then multiply by 100. This is your work-related use percentage.
+Step 4
+– Add up your total expenses for the period that you are claiming.
+Step 5
+– Multiply your work-related use percentage (step 3) by your car expenses (step 4). This is the amount you claim as a deduction.
+'Work-related kilometres' are the kilometres your car travels in the course of earning your assessable employment income. For more information on what travel is incurred in the course of earning your assessable employment income, see
+Trips you can and can't claim
+.
+Calculating electricity costs for your electric vehicle
+If your car is an electric (zero emissions) vehicle (EV), you can calculate your electricity costs either by:
+calculating the actual amount you spent on charging your car at commercial charging stations or at home
+by multiplying the EV home charging rate for the relevant income year by the total number of kilometres travelled during the income year based on odometer records.
+The EV home charging rate for the 2022–23 to 2025–26 income years is 4.2 cents per kilometre.
+For more information, see paragraph 16 of Practical Compliance Guideline
+PCG 2024/2
+Electric vehicle home charging rate
+–
+calculating electricity costs when a vehicle is charged at an employee's or individual's home.
+Calculating fuel and electricity costs for your plug-in hybrid vehicle
+If your car is a plug-in hybrid electric vehicle (PHEV), for the 2024–25 income year onwards, you can work out your fuel and electricity expenses either by:
+calculating the actual amount you spent on fuel and charging your car at commercial charging stations or at home
+using methodology set out at paragraphs 17 to 27 of
+PCG 2024/2
+, which allows you to use the EV home charging rate.
+For the 2023–24 income year and earlier income years, you can only claim the actual amount you incurred on fuel and charging your EV at commercial charging stations or at home.
+If you use the home charging rate in PCG 2024/2 to calculate your electricity costs for the income year, unless your EV or PHEV has the functionality to report the percentage of the car's total charge based on the charging location, you can't add the cost of any commercial charging stations to this amount. These amounts must be disregarded.
+Example: home charging percentage can be accurately determined
+Bill owns an electric car which he uses for work purposes. Bill charges his electric car at home and at commercial charging stations.
+For the 2025–26 income year, Bill has:
+a valid logbook
+the odometer reading for his car at the start and the end of the income year
+an electricity bill for his home showing he incurred electricity expenses
+receipts for his commercial charging station expenses which total $172.
+Bill's car generates a report detailing the annual percentage of total charge that relates to home charging. The report shows that Bill charges his electric vehicle 75% at home during the 2025–26 income year.
+Bill travelled a total of 10,000 km in the 2025–26 income year. His home charging kilometres are determined by applying the home charging percentage to the total kilometres travelled.
+Bill calculates his home charging kilometres as:
+Total kilometres
+multiplied by
+home charging percentage
+equals
+home charging kilometres
+10,000 km × 75% = 7,500 km
+To calculate his total home charging expenses, Bill multiplies the home charging kilometres by the EV home charging rate:
+7,500 km × 4.2c/km = $315
+Bill calculates his total charging expenses as:
+Home charging expenses
+plus
+commercial charging expenses
+equals
+total charging expenses
+$315 + $172 = $487
+To calculate his deduction for charging his car during the 2025–26 income year, Bill will multiply his total charging expenses ($487) by his work-related use percentage from his logbook.
+End of example
+Working out the decline in value of a car
+Cars are depreciating assets so a deduction for their decline in value can be claimed as a car expense if you are using the logbook method.
+However, there is a limit on the cost of the car that you can claim as decline in value deductions over the car's
+effective life
+. This is referred to as the car limit
+car limit
+.
+If the cost of the car you purchase exceeds the car limit in the year you buy it, its cost for decline in value purposes will be the car limit. The limit is applied to the cost of the car, not your ownership interest in the car. This means if you purchase a car exceeding the car limit with another person jointly, you will use half of the cost limit for the purpose of calculating your decline in value deduction.
+The
+Commissioner's determination of the effective life
+of a car is generally 8 years.
+Example: working out the decline in value of a car (diminishing value method)
+On 3 July 2025, Lana buys a 5-seater car for $75,000 which she uses for work purposes during the 2025–26 income year.
+As Lana bought the car in the 2025–26 income year, when working out the car's decline in value for that income year, the cost of the car is reduced to $69,674 (the car limit for 2025–26).
+Lana uses the Commissioner's determination of the effective life and works out her decline in value using the diminishing value method in the following way:
+Car cost (car limit): $69,674
+Effective life of the car: 8 years
+Diminishing value formula: Cost × (days held ÷ 365) × (200% ÷ asset’s effective life)
+$69,674 × (362 ÷ 365) × (200% ÷ 8) = $17,275.33
+Based on her logbook Lana works out her work-related use percentage as 69%. This means she can claim $17,275.33 × 69% = $11,919.98 as a deduction for the decline in value of the car in her 2025–26 tax return.
+Lana can also claim 69% of her fuel, insurance, tyres, repairs and other expenses for the car.
+End of example
+Example: working out the decline in value of a car (prime cost method)
+Vlad buys an electric car on 1 July 2025 and uses to carry out his duties as an employee.
+Based on his valid logbook, Vlad works out he uses his car 11% of the time for work purposes, that his work-related use percentage is 11%. The car cost $30,000.
+Vlad works out his decline in value deduction using the prime cost method as follows:
+Asset cost × (days held ÷ 365) × (100% ÷ asset’s effective life)
+$30,000 × (365 ÷ 365) × (100% ÷ 8) = $3,750
+As Vlad's work-use percentage based on his logbook is 11%, he can claim a deduction of $413 ($3,750 × 11%) for the decline in value of his car in the 2025–26 income year.
+End of example
+You can't claim a deduction for the decline in value of your car if you use the
+cents per kilometre method
+.
+QC
+107247
+Print or Download

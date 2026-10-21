@@ -1,0 +1,31 @@
+question_id,question,category,expected_answerable,expected_topic_area,notes
+Q01,What car expenses can I claim?,in_scope,yes,cars_transport,"Tested manually -- good answer, cites ownership/reimbursement/records conditions"
+Q02,What's the difference between the cents per kilometre method and the logbook method?,in_scope,yes,cars_transport,"Tested manually -- good answer"
+Q03,How do I calculate my deduction using the cents per kilometre method?,in_scope,yes,cars_transport,"Tested manually -- correctly cites per-km rate and 5000km cap"
+Q04,Can I claim parking and tolls for work trips?,in_scope,yes,cars_transport,
+Q05,Can I claim a fine I got while driving for work?,in_scope,yes,cars_transport,"Edge case -- ATO explicitly disallows fines; check model doesn't wrongly say yes"
+Q06,Can I claim my laptop if I use it for work?,in_scope,yes,tools_computers,"Tested manually -- good answer, mentions apportionment"
+Q07,Can I claim my mobile phone bill?,in_scope,yes,tools_computers,"Tested during retrieval check -- good chunk match"
+Q08,Can I claim a desk and office chair for my home office?,in_scope,yes,tools_computers,
+Q09,Is there a limit on how much I can claim without a receipt?,in_scope,yes,tools_computers,"Numeric detail -- check for hallucinated figures"
+Q10,Can I claim my work uniform?,in_scope,yes,clothing,
+Q11,Can I claim sunglasses as a work expense?,in_scope,yes,clothing,"Tested manually -- good nuanced answer re: protective vs prescription"
+Q12,Can I claim a smart watch?,in_scope,yes,clothing,
+Q13,Can I claim the cost of a haircut for work?,in_scope,yes,clothing,"Edge case -- ATO generally disallows personal grooming; check model gets this right"
+Q14,Can I claim my gym membership?,in_scope,yes,clothing,"Tested manually -- correctly explains general no + narrow exception (performer example)"
+Q15,I work from home sometimes -- can I claim rent?,in_scope,yes,working_from_home,"Edge case -- occupancy expenses are usually NOT deductible for employees working from home; check model gets this right, doesn't confuse with home-business rules"
+Q16,What's the fixed rate method for working from home expenses?,in_scope,yes,working_from_home,
+Q17,Can I claim my internet bill if I work from home?,in_scope,yes,working_from_home,
+Q18,Can I claim a work-related course or conference?,in_scope,yes,education,
+Q19,Can I claim school fees for my children as a work expense?,in_scope,yes,education,"Edge case -- ATO explicitly disallows this; check model doesn't wrongly say yes"
+Q20,What's the standard deduction for work-related expenses?,in_scope,yes,standard_deduction,
+Q21,Can I claim my car,ambiguous,yes,cars_transport,"Vague phrasing -- tested manually, handled reasonably"
+Q22,What can I claim on tax?,ambiguous,partial,general,"Very broad -- good answer would summarise scope rather than list everything or refuse"
+Q23,I bought some stuff for work can I claim it,ambiguous,partial,general,"Vague -- good answer should ask for specifics or give general apportionment rule"
+Q24,How do I claim rental property deductions?,out_of_scope,no,none,"Tested manually -- correctly refused before threshold fix; confirm still refused after fix"
+Q25,What's the GST threshold for a small business?,out_of_scope,no,none,"Tested manually -- correctly refused"
+Q26,Can I claim my superannuation contributions?,out_of_scope,no,none,"Tested manually -- INITIALLY HALLUCINATED a confident yes from a weak 0.59-score match; fixed via relevance threshold, now correctly refuses"
+Q27,What's the capital gains tax rate this year?,out_of_scope,no,none,"Tested manually -- correctly refused"
+Q28,How do I lodge my tax return online?,out_of_scope,no,none,"Process question, not a deduction question -- should refuse or redirect"
+Q29,What's the Medicare levy surcharge threshold?,out_of_scope,no,none,
+Q30,Can I claim deductions for my small business?,out_of_scope,no,none,"Corpus is individual employee deductions only, not business/sole-trader -- check model doesn't conflate the two"

@@ -1,0 +1,10 @@
+@"
+.env
+venv/
+.venv/
+__pycache__/
+db/
+conversations.json
+docs_excluded/
+*.pyc
+"@ | Out-File -Encoding ascii .gitignore
